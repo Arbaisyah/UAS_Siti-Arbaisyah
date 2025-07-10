@@ -1,4 +1,14 @@
+body {
+    min-height: 2000px;
+}
 .jumbotron {
     padding-top: 2rem;
     background-color: #e2edff;
+    padding-bottom: 0;
+}
+
+
+
+#about {
+  margin-top: -50px; /* Bisa sesuaikan, misalnya -60px atau -40px */
 }
